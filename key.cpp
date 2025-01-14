@@ -4,7 +4,6 @@
 
 // Declare the hook handle
 HHOOK hHook = NULL;
-
 // File stream for logging
 std::ofstream logFile;
 
